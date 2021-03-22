@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Civics Flash Cards</string>
+    <string name="hint_word">Type Your Text Here...</string>
+    <string name="button_save">Add Card</string>
+    <string name="empty_not_saved">Card not saved because it is empty.</string>
+
+    <string name="fall_down">Fall Down</string>
+    <string name="slide_from_bottom">Slide From Bottom </string>
+    <string name="slide_from_right">Slide From Right</string>
+    <string name="clear_data">Remove All Cards</string>
+</resources>
